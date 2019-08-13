@@ -19,7 +19,7 @@ The Product Catalog is a simple web application that allows the administrator to
 ```bash
 $ composer update
 ```
-1. Use `phpMyAdmin` to import this database dump: [Database/catalog_database.sql](Database/catalog_database.sql)
+3. Use `phpMyAdmin` to import this database dump: [Database/catalog_database.sql](Database/catalog_database.sql)
 1. If you create a database with a name other than `catalog_database`, set your database name in [db_config.php](db_config.php)
 
 ## Features
